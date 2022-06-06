@@ -47,6 +47,12 @@ function Home() {
                 leftBtnText="Custom Order"
                 rightBtnText="Existing inventory"
             ></Section>
+            <Section
+                title="Accessories"
+                description="Order Online for Toucheless Delivery"
+                backgroundImg="/images/accessories.jpg"
+                leftBtnText="Shop now"
+            ></Section>
 
         </Container>
     )
